@@ -30,7 +30,7 @@ The due date for the task.
 Either a ‘Yes’ or ‘No’ value that specifies if the task has been
 completed yet
 
-#User.txt
+# User.txt
 
 user.txt stores the username and password for each user that has
 permission to use your program (task_manager.py).
@@ -43,7 +43,7 @@ the password.
 
 One username and corresponding password per line
 
-#User should be able to:
+# User should be able to:
 
 Login. The user should be prompted to enter a username and
 password. Display an appropriate error message if the
