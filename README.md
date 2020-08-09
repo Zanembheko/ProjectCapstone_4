@@ -2,17 +2,17 @@
 
 ** Python 3.8.0 **
 
-## Purpose of the project
+# Purpose of the project
 
 In this task, I will be creating a program for a small business that can
 help it to manage tasks assigned to each member of the team. I have created a task_manager.py which will be our main program
 
 
-## How the program will work
+# How the program will work
 The program will be accompanied by tow text files namely Task.txt and User.txt
 
 
-# Task.txt
+### Task.txt
 Tasks.txt stores a list of all the tasks that the team is working on.
 Open the tasks.txt file that accompanies this project. The data for each
 task is stored on a separate line in the text file. Each line contains
@@ -30,7 +30,7 @@ The due date for the task.
 Either a ‘Yes’ or ‘No’ value that specifies if the task has been
 completed yet
 
-# User.txt
+### User.txt
 
 user.txt stores the username and password for each user that has
 permission to use your program (task_manager.py).
@@ -43,7 +43,7 @@ the password.
 
 One username and corresponding password per line
 
-# User should be able to:
+### User should be able to:
 
 Login. The user should be prompted to enter a username and
 password. Display an appropriate error message if the
